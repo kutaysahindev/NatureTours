@@ -5,7 +5,7 @@
 ![preview-img](https://github.com/kutaysahindev/NatureTours/assets/79334889/a34d950e-6a3f-48bf-8859-4b34eedbb155=1199x1035)
 
 ## Live Demo
-<a href="https://readme.shaankhan.dev](https://kutaysahindev.github.io/NatureTours/"><strong>View Demo »</strong></a>
+<a href="https://readme.shaankhan.dev](https://kutaysahindev.github.io/NatureTours/" target="_blank"><strong>View Demo »</strong></a>
 
 ## Getting Started
 
